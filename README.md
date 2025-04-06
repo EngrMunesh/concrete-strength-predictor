@@ -126,7 +126,7 @@ This project introduces an Artificial Neural Network (ANN) trained to accurately
 ![Predicted vs Actual](Results/Figure_2%20Equity%20Line%20Graph.png)
 
 ### 📈 Prediction Trend
-![Prediction and Actual Values](Result/Figure_3%20Prediction%20and%20Actual%20Values.png)
+![Prediction and Actual Values](Results/Figure_3%20Prediction%20and%20Actual%20Values%20Graph.png)
 
 ---
 
